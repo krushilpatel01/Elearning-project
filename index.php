@@ -350,10 +350,142 @@
 
 
         <section class="clients-review">
+            <div class="row title-back mt-5 mx-0">
+                <h4>Our testimonials</h4>
+                <h1>What they saying?</h1>
+            </div>
             <div class="container">
-                <div class="row title-back mt-5 mx-0">
-                    <h4>Our testimonials</h4>
-                    <h1>What they saying?</h1>
+                <div class="row review-list">
+                    <!-- <div class="swiper mySwiper2 reviews">
+                    <div class="row swiper-wrapper review-list">
+                        <div class="col-12 col-sm-4 swiper-slide review-box">
+                            <h3 class="main-title">Our Client's Said about us:</h3>
+                            <p class="client-review">I was very impresed by the kitecx service lorem ipsum is simply
+                                free
+                                text used by copy
+                                typing refreshing. Neque porro est qui dolorem ipsum. <span><a href="#">Read
+                                        more</a></span>
+                            </p>
+                            <div class="client-id d-flex">
+                                <div class="images"><img src="images/testimonial.png" alt="" srcset=""></div>
+                                <div class="client-info">
+                                    <h3 class="c-name">Chabhadiya krushil</h3>
+                                    <h5 class="occupation">Web & Graphic DEsigner</h5>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-12 col-sm-4 swiper-slide review-box">
+                            <h3 class="main-title">Our Client's Said about us:</h3>
+                            <p class="client-review">I was very impresed by the kitecx service lorem ipsum is simply
+                                free
+                                text used by copy
+                                typing refreshing. Neque porro est qui dolorem ipsum. <span><a href="#">Read
+                                        more</a></span>
+                            </p>
+                            <div class="client-id d-flex">
+                                <div class="images"><img src="images/testimonial.png" alt="" srcset=""></div>
+                                <div class="client-info">
+                                    <h3 class="c-name">Chabhadiya krushil</h3>
+                                    <h5 class="occupation">Web & Graphic DEsigner</h5>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-12 col-sm-4 swiper-slide review-box">
+                            <h3 class="main-title">Our Client's Said about us:</h3>
+                            <p class="client-review">I was very impresed by the kitecx service lorem ipsum is simply
+                                free
+                                text used by copy
+                                typing refreshing. Neque porro est qui dolorem ipsum. <span><a href="#">Read
+                                        more</a></span>
+                            </p>
+                            <div class="client-id d-flex">
+                                <div class="images"><img src="images/testimonial.png" alt="" srcset=""></div>
+                                <div class="client-info">
+                                    <h3 class="c-name">Chabhadiya krushil</h3>
+                                    <h5 class="occupation">Web & Graphic DEsigner</h5>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="swiper-pagination"></div>
+                </div> -->
+                    <div class="col-12 col-sm-4 review-box">
+                        <h3 class="main-title">Our Client's Said about us:</h3>
+                        <p class="client-review">I was very impresed by the kitecx service lorem ipsum is simply free
+                            text used by copy
+                            typing refreshing. Neque porro est qui dolorem ipsum. <span><a href="#">Read more</a></span>
+                        </p>
+                        <div class="client-id d-flex">
+                            <div class="images"><img src="images/testimonial.png" alt="" srcset=""></div>
+                            <div class="client-info">
+                                <h3 class="c-name">Chabhadiya krushil</h3>
+                                <h5 class="occupation">Web & Graphic DEsigner</h5>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-12 col-sm-4 review-box">
+                        <h3 class="main-title">Our Client's Said about us:</h3>
+                        <p class="client-review">I was very impresed by the kitecx service lorem ipsum is simply free
+                            text used by copy
+                            typing refreshing. Neque porro est qui dolorem ipsum. <span><a href="#">Read more</a></span>
+                        </p>
+                        <div class="client-id d-flex">
+                            <div class="images"><img src="images/testimonial.png" alt="" srcset=""></div>
+                            <div class="client-info">
+                                <h3 class="c-name">Chabhadiya krushil</h3>
+                                <h5 class="occupation">Web & Graphic DEsigner</h5>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-12 col-sm-4 review-box">
+                        <h3 class="main-title">Our Client's Said about us:</h3>
+                        <p class="client-review">I was very impresed by the kitecx service lorem ipsum is simply free
+                            text used by copy
+                            typing refreshing. Neque porro est qui dolorem ipsum. <span><a href="#">Read more</a></span>
+                        </p>
+                        <div class="client-id d-flex">
+                            <div class="images"><img src="images/testimonial.png" alt="" srcset=""></div>
+                            <div class="client-info">
+                                <h3 class="c-name">Chabhadiya krushil</h3>
+                                <h5 class="occupation">Web & Graphic DEsigner</h5>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+
+        <section class="happy-clients">
+            <div class="container">
+                <div class="row align-items-center">
+                    <div class="col-12 col-md-6 clients-brands">
+                        <h4>They Trusted us</h4>
+                        <h2>Our Happy Clients</h2>
+                        <p>There are many text variations of passages of Lorem Ipsum available, but the majority have
+                            suffered.</p>
+                        <ul class="brands-feature">
+                            <li>Suspe ndisse suscipit sagittis leo.</li>
+                            <li>Entum estibulum dignissim epeat.</li>
+                            <li>There cursus massa at urnaaculis</li>
+                            <li>Lorem Ipsum is not simply random text</li>
+                        </ul>
+                        <div class="project-ratio d-flex align-items-center">
+                            <div class="images"><img src="images/company1.jpg" alt="" srcset=""></div>
+                            <div class="project-detail">
+                                <h2>40,780</h2>
+                                <h5>Project Success</h5>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-12 col-md-6">
+                        <div class="row justify-content-evenly">
+                            <div class="col-5 brands m-1"><img src="images/brand (2).png" alt="" srcset=""></div>
+                            <div class="col-5 brands m-1"><img src="images/brand (4).png" alt="" srcset=""></div>
+                            <div class="col-5 brands m-1"><img src="images/brand (6).png" alt="" srcset=""></div>
+                            <div class="col-5 brands m-1"><img src="images/brand (8).png" alt="" srcset=""></div>
+                        </div>
+                    </div>
                 </div>
             </div>
         </section>
@@ -389,6 +521,17 @@
                 navigation: {
                     nextEl: ".swiper-button-next",
                     prevEl: ".swiper-button-prev",
+                },
+            });
+        </script>
+        <script>
+            var swiper = new Swiper(".mySwiper2", {
+                slidesPerView: 3,
+                spaceBetween: 30,
+                freeMode: true,
+                pagination: {
+                    el: ".swiper-pagination",
+                    clickable: true,
                 },
             });
         </script>
